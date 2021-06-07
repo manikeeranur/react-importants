@@ -1,0 +1,9 @@
+.responsivetable {
+  height: 550px;
+  overflow: scroll;
+}
+
+.bg {
+  background-color: red;
+  color: white;
+}
